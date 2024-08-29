@@ -17,3 +17,5 @@ I'm a Software Engineer and also a Content Creator. I'm passionate about sharing
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=olaoyeayomide&show_icons=true&include_all_commits=true&hide_border=true" alt="Olaoye's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Olaoye%20Ayomide%20&theme=dark)](https://git.io/streak-stats)
